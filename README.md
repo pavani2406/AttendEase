@@ -3,7 +3,7 @@
 AttendEase is a responsive attendance management web application built using Google AI Studio. It provides a modern and intuitive way to record attendance through swipe gestures, making the process faster and more engaging than traditional button-based systems.
 
 🚀 Features
-✅ Swipe right to mark Present
+✅ Swipe right to mark Present \n
 ❌ Swipe left to mark Absent
 📱 Mobile-first responsive design
 💻 Optimized for Desktop, Tablet, and Mobile devices
